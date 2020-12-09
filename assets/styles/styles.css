@@ -1,0 +1,11 @@
+p {
+    margin-left: 200px;
+}
+.container {
+    padding: 20px 40px 40px;
+}
+.image-details {
+    float: left;
+    height: 300px;
+    width: 300px;
+}
