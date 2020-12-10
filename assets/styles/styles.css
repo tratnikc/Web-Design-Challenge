@@ -8,6 +8,12 @@ h3 {
     color: darkcyan;
     text-align: center;
 }
+h4 {
+    font-size: medium;
+}
+td {
+    font-size: small;
+}
 .container {
     padding: 5px 10px 10px;
 }
