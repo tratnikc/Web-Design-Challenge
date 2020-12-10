@@ -49,14 +49,16 @@ td {
     height: 300px;
     width: 30px;
 }
-.navbar-brand {
+.navbar-light .navbar-brand {
+    color: white;
     background-color: darkcyan;
 }
 .myfooter {
     font-size: x-small;
 }
 @media (max-width: 600px) {
-    .navbar-light {
-        background-color: teal;
+    nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+        color: white;
+        background-color: darkcyan !important;
     }
 }
