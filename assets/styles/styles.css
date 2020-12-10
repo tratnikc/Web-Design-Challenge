@@ -1,5 +1,13 @@
-
-
+h1 {
+    color: darkcyan;
+}
+h2 {
+    color: darkcyan;
+}
+h3 {
+    color: darkcyan;
+    text-align: center;
+}
 .container {
     padding: 5px 10px 10px;
 }
@@ -34,4 +42,8 @@
 .image-compare {
     height: 300px;
     width: 30px;
+}
+.navbar-light .navbar-brand {
+    color: white;
+    background-color: darkcyan;
 }
