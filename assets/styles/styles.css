@@ -46,8 +46,11 @@ td {
 }
 
 .image-compare {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: 300px;
-    width: 30px;
+    width: 400px;
 }
 .navbar-light .navbar-brand {
     color: white;
