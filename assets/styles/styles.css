@@ -1,3 +1,6 @@
+body {
+    background-color: lightsteelblue;
+}
 h1 {
     color: darkcyan;
     margin-left: 15px;
@@ -16,15 +19,11 @@ h4 {
 td {
     font-size: small;
 }
-
-body {
-    background-color: lightsteelblue;
-}
 .div-one {
     padding: 10px;
 }
 .container {
-    padding: 5px 10px 10px;
+    padding: 30px 10px 10px;
 }
 .image-details {
     float: left;
@@ -69,6 +68,7 @@ body {
 }
 .myfooter {
     font-size: x-small;
+    bottom: 0;
 }
 @media (max-width: 600px) {
     nav.navbar.navbar-expand-lg.navbar-light.bg-light {
