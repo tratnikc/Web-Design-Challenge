@@ -12,8 +12,9 @@
 7. data.html
 8. style.css in assets/styles folder
 9. images folder containing the plots used
-10. cities.csv in Resources folder
-11. this README.md
+10. screenshots in images/screenshots folder
+11. cities.csv in Resources folder
+12. this README.md
 
  ### Requirements
 Create a visualization dashboard website consisting of 7 pages total, including:
@@ -35,8 +36,8 @@ The website must, at the top of every page, have a navigation menu that:
  * Provides two more text links on the right: "Comparisons", which links to the comparisons page, and "Data", which links to the data page.
  * Is responsive (using media queries).
 
-### Screenhots
-1. Landing Page
+### Screenshots
+1. [!Landing Page](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/landing-page.png)
 2. Visualizations
 3. Comparison Page
 4. Data Page
