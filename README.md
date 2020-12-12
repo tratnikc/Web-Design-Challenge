@@ -42,10 +42,14 @@ The website must, at the top of every page, have a navigation menu that:
 #### 1. Landing Page  
 ![Landing Page | 300x400](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/landing-page.png)
 #### 2. Visualizations  
-   * ![vs Max Temperature | 300x400](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/viz-maxtemp.png)
-   * ![vs Humidity | 300x400](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/viz-humidity.png)
-   * ![vs Cloudiness | 300x400](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/viz-cloudiness.png)
-   * ![vs Wind Speed | 300x400](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/viz-windspeed.png)
+   * #### vs Max Temperature
+   ![vs Max Temperature | 300x400](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/viz-maxtemp.png)
+   * #### vs Humidity
+   ![vs Humidity | 300x400](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/viz-humidity.png)
+   * #### vs Cloudiness
+   ![vs Cloudiness | 300x400](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/viz-cloudiness.png)
+   * #### vs Wind Speed
+   ![vs Wind Speed | 300x400](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/viz-windspeed.png)
 #### 3. Comparison Page  
 ![Comparison Page | 300x400](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/comparison-page.png)
 #### 4. Data Page  
