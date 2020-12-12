@@ -49,7 +49,7 @@ The website must, at the top of every page, have a navigation menu that:
 3. Comparison Page  
 ![Comparison Page | 300x400](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/comparison-page.png)
 4. Data Page  
-[Data Page](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/data-page.png)
+![Data Page](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/data-page.png)
 
 
  
