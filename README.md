@@ -39,10 +39,14 @@ The website must, at the top of every page, have a navigation menu that:
  * Is responsive (using media queries).
 
 ### Screenshots
-1. [!Landing Page](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/landing-page.png)
+1. [Landing Page](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/landing-page.png)
 2. Visualizations
-3. Comparison Page
-4. Data Page
+   * [vs Max Temperature](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/viz-maxtemp.png)
+   * [vs Humidity](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/viz-humidity.png)
+   * [vs Cloudiness](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/viz-cloudiness.png)
+   * [vs Wind Speed](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/viz-windspeed.png)
+3. [Comparison Page](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/comparison-page.png)
+4. [Data Page](https://github.com/tratnikc/Web-Design-Challenge/blob/main/images/screenshots/data-page.png)
 
 
  
