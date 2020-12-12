@@ -1,6 +1,6 @@
 # Web-Design-Challenge
  
- ## Web Visualization Dashboard (Latitude)
+ ## [Web Visualization Dashboard (Latitude)](https://tratnikc.github.io/web-visualization-dashboard/)
 
  ### included
 1. index.html
