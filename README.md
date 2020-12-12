@@ -3,6 +3,8 @@
  ## [Web Visualization Dashboard (Latitude)](https://tratnikc.github.io/web-visualization-dashboard/)
 
  ### included
+ * [deployed html repository](https://github.com/tratnikc/web-visualization-dashboard)
+
 1. index.html
 2. maxtemp.html
 3. humidity.html
